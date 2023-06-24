@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeriaoPortTool", "SeriaoPortTool.csproj", "{36D9A89B-9E2A-46C3-BEDC-4C8118C50719}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36D9A89B-9E2A-46C3-BEDC-4C8118C50719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36D9A89B-9E2A-46C3-BEDC-4C8118C50719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36D9A89B-9E2A-46C3-BEDC-4C8118C50719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36D9A89B-9E2A-46C3-BEDC-4C8118C50719}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51ECBCB8-2C0D-4D41-802F-8D0524690B6D}
+	EndGlobalSection
+EndGlobal
